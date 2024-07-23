@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aron Dagniew</h1>
-<h3 align="center">A passionate Software developer from United State</h3>
+<h3 align="center">A dedicated Software Developer currently based in the United States</h3>
 
 - 🌱 I’m currently working on **Cloud computing, Big Data processing, Software Development**
 
